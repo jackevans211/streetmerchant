@@ -81,6 +81,7 @@ Used with the `STORES` variable.
 | Coolblue | NL | `coolblue`|
 | Coolmod | ES | `coolmod`|
 | Corsair | US | `corsair`|
+| Corsair | UK | `corsair-uk`|
 | CPL | AU | `cpl`|
 | Currys | UK | `currys`|
 | Cyberport | DE | `cyberport` |
@@ -188,7 +189,11 @@ Used with the `SHOW_ONLY_BRANDS` and `SHOW_ONLY_MODELS` variables.
 |:---:|---|
 | `amd` | `5600x`, `5800x`, `5900x`, `5950x`, `amd reference` |
 | `asus` | `crosshair viii`, `dual`, `dual oc`, `ekwb`, `strix`, `strix oc`, `strix white`, `tuf`, `tuf oc` |
+<<<<<<< HEAD
 | `corsair` | `750 platinum`, `600 platinum` |
+=======
+| `corsair` | `750 platinum`, `600 platinum`, `600 gold` |
+>>>>>>> ce609fb518fa7811a77e3ab7d26ecacf86ac35e6
 | `colorful` | `igame advanced oc`, `igame vulcan oc` |
 | `evga` | `ftw3`, `ftw3 black`, `ftw3 ultra`, `ftw3 ultra hybrid`, `ftw3 ultra hydro copper`, `xc3`, `xc black`, `xc gaming`, `xc3 black`, `xc3 ultra`, `xc3 ultra hybrid` |
 | `gainward` | `phantom gs`, `phoenix`, `phoenix gs`, `phoenix gs oc` |
